@@ -1,0 +1,18 @@
+.major, .mini {
+    letter-spacing:  1.4rem;
+}
+
+.major {
+    padding-top: 90px;
+}
+.mini{
+    font-weight: 60px;
+    font-size: 20px;
+}
+.three-divs{
+   padding-top: 50px;
+}
+.testrun:hover{
+    color: white;
+    background-color: green !important;
+}
